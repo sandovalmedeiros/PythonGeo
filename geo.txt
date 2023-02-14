@@ -1,0 +1,4 @@
+Configurando um Banco de Dados no Geonetwork
+
+https://www.geonetwork-opensource.org/manuals/trunk/en/install-guide/configuring-database.html
+
